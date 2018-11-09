@@ -1,0 +1,8 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "philippines",
+    "password": "pilipinas",
+    "database": "philippines"
+  }
+}

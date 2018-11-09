@@ -4,5 +4,6 @@ create table Places(
   Type varchar(255) not null,
   Region varchar(255) not null,
   Population int not null,
+  Legislative_Seats int not null
   Primary Key(PlaceID)
 );
